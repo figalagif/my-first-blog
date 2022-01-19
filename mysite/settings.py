@@ -24,7 +24,7 @@ SECRET_KEY = 'cqye43&qn5v*i#^e86wubhibbodq41b^@ezl2h*&x$o%3!8u8a'
 #SECRET_KEY = os.getenv('SECRET')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
